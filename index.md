@@ -4,7 +4,7 @@ description: This is a website to showcase the works and experience of Royall Fe
 ---
 ![My Photo](Seniorphoto.jpg)
 **Body of Work**
-- [Time Series Decomposition](/timeseries/index.md){:class="img-responsive"}
+- [Time Series Decomposition](/timeseries/index.md){{:height="700px" width="400px"}}
 
 
 
