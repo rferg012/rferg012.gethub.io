@@ -11,5 +11,4 @@ The last two are links to the original data set in both HTML and Jupyter Noteboo
 - [Public Construction Time Series Decomposition Graph (PDF)](public_timeseries.pdf)
 - [Construction Time Series Decomposition (HTML)](ConstructionTimeSeries.html)
 - [Construction Time Series Decomposition - Jupyter (IPYNB)](ConstructionTimeSeries.ipynb)
-
 - [File Repository](https://github.com/rferg012/Time-Series-Analysis)
