@@ -9,8 +9,8 @@ The last two are links to the original data set in both HTML and Jupyter Noteboo
 
 - [Private Construction Time Series Decomposition Graph (PDF)](private_timeseries.pdf)
 - [Public Construction Time Series Decomposition Graph (PDF)](public_timeseries.pdf)
-- [Construction Time Series Decomposition (HTML)](ConstructionTimeSeries.html)
-- [Construction Time Series Decomposition - Jupyter (IPYNB)](ConstructionTimeSeries.ipynb)
+- [Construction Time Series (HTML)](ConstructionTimeSeries.html)
+- [Construction Time Series - Jupyter (IPYNB)](ConstructionTimeSeries.ipynb)
 
 The files used in the links above can be reach at the below github repository.
 
