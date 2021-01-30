@@ -12,6 +12,6 @@ The last two are links to the original data set in both HTML and Jupyter Noteboo
 - [Construction Time Series Decomposition (HTML)](ConstructionTimeSeries.html)
 - [Construction Time Series Decomposition - Jupyter (IPYNB)](ConstructionTimeSeries.ipynb)
 
-The files used in the links above can be reach as the below github repository
+The files used in the links above can be reach at the below github repository.
 
 - [File Repository](https://github.com/rferg012/Time-Series-Analysis)
