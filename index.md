@@ -2,9 +2,9 @@
 title: Royall Ferguson's Showcase
 description: This is a website to showcase the works and experience of Royall Ferguson.
 ---
-![My Photo](Seniorphoto.jpg)
+![My Photo](Seniorphoto.jpg){:class="img-responsive"}
 **Body of Work**
-- [Time Series Decomposition](/timeseries/index.md){{:height="700px" width="400px"}}
+- [Time Series Decomposition](/timeseries/index.md)
 
 
 
