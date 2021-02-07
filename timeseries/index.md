@@ -5,7 +5,7 @@ description: Course Content
 
 Here is a Time Series Decomposition of Private and Public Construction I used in my Competing Through Business Analytics course.
 Below is a presentation on the data and my findings.
-- [![Construction Spending Presentation](Construction Spending Anaylsis Presentation.mp4)]("Construction Spending Analysis Presentation")
+- [![Construction Spending Presentation](Construction Spending Anaylsis Presentation.mp4)]
 
 The first two links are the final product of regression analysis models for both private and publiuc construction over 12 years.
 The last two are links to the original data set in both HTML and Jupyter Notebook formats.
